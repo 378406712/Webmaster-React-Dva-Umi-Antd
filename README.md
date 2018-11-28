@@ -19,55 +19,6 @@
 * 使用[umi](https://github.com/umijs/umi)本地调试和构建，其中 Mock 功能实现脱离后端独立开发。
 * 浅度响应式设计。
 
-## 更新日志
-
-### 5.0.0-beta
-
-`2018-6-20`
-
-   * 感谢@sorrycc、@xiaohuoni [PR](https://github.com/zuiidea/antd-admin/pull/770)
-   
-   *   更新`roadhog`至`umi` 
-   详见 [使用 umi 改进 dva 项目开发](https://github.com/sorrycc/blog/issues/66#issuecomment-408596579) | [umi model 用法](https://github.com/umijs/umi/issues/171)
-
-### 4.3.9
-
-`2017-12-27`
-
-* 更新`antd`至`3.0.3`，以及其它主要库，并解决升级带来的兼容问题。
-*     尽可能的保持`antd`的设计语言。
-
-### 4.3.7
-
-`2017-10-30`
-
-* 更新`chart`，新增[ECharts](https://github.com/ecomfe/echarts)，[highCharts](https://github.com/highcharts/highcharts)，[Recharts](https://github.com/recharts/recharts)演示。
-
-### 4.3.5
-
-`2017-09-04`
-
-* 更新[dva](https://github.com/dvajs/dva)至`2.0.1`，感谢[@yangbin1994](https://github.com/yangbin1994)的[PR](https://github.com/zuiidea/antd-admin/pull/567)。
-
-### 4.3.4
-
-`2017-09-04`
-
-* 更新[roadhog](https://github.com/sorrycc/roadhog)至`1.2.1`，修复闪屏问题。
-* 修复 build css 未压缩[#529](https://github.com/zuiidea/antd-admin/issues/529)，classname 未 Hash[#477](https://github.com/zuiidea/antd-admin/issues/477)。
-* 更新登录成功使用 router 跳转[#479](https://github.com/zuiidea/antd-admin/issues/479)。
-
-### 4.3.0
-
-`2017-07-30`
-
-* 更新[roadhog](https://github.com/sorrycc/roadhog)至`1.0.0-beta.7`，得益于`webpack@3.4`，编译速度不减。
-* 基于使用 roadhog 的 dll 插件，开发时编译耗时减半。
-* 新增打包时按项目版本号生成文件目录。[#449](https://github.com/zuiidea/antd-admin/issues/449)
-* 更新`eslint`，并适当修改了`.eslintrc`。
-
-[More Change Log](https://github.com/zuiidea/antd-admin/wiki/Change-Log)
-
 ## 开发构建
 
 ### 目录结构 
@@ -150,23 +101,3 @@ npm run lint
   ```bash
   git config --global core.autocrlf false
   ```
-
-## 参考
-
-用户列表：<https://github.com/dvajs/dva/tree/master/examples/user-dashboard>
-
-dashboard 设计稿：<https://dribbble.com/shots/3108122-Dashboard-Admin> （已征得作者同意）
-
-## 截屏
-
-web
-
-![](https://user-images.githubusercontent.com/8142164/43032162-37db46e2-8ce3-11e8-9c7e-73a773bc0545.gif)
-
-移动
-
-![](https://user-images.githubusercontent.com/8142164/43032163-3a1f2838-8ce3-11e8-89c5-8e1ae077d34a.gif)
-
-效果图
-
-![](https://user-images.githubusercontent.com/8142164/43032165-5d151bae-8ce3-11e8-9bfd-8a121620ea78.jpg)
