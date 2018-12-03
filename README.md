@@ -88,6 +88,10 @@ npm run start
 ```bash
 npm run lint
 ```
+## 截屏
+
+Login：
+![](https://github.com/zengY1/Webmaster-React-Dva-Umi-Antd/blob/master/assets/image/login.png)
 
 ## FAQ
 
