@@ -10,7 +10,8 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 
 演示地址 <http://antd-admin.zuiidea.com>
-项目演示：![](https://github.com/zengY1/Webmaster-React-Dva-Umi-Antd/blob/master/assets/image/%E6%B5%81%E7%A8%8B.gif)
+## 项目演示：
+![](https://github.com/zengY1/Webmaster-React-Dva-Umi-Antd/blob/master/assets/image/%E6%B5%81%E7%A8%8B.gif)
 
 ## 特性
 
