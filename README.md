@@ -92,6 +92,8 @@ npm run lint
 
 Login：
 ![](https://github.com/zengY1/Webmaster-React-Dva-Umi-Antd/blob/master/assets/image/login.png)
+页内效果图：
+![](https://github.com/zengY1/Webmaster-React-Dva-Umi-Antd/blob/master/assets/image/%E6%B5%81%E7%A8%8B.gif)
 
 ## FAQ
 
