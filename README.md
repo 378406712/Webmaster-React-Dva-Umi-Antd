@@ -161,7 +161,7 @@ dashboard 设计稿：<https://dribbble.com/shots/3108122-Dashboard-Admin> （�
 
 web
 
-![](https://user-images.githubusercontent.com/8142164/43032162-37db46e2-8ce3-11e8-9c7e-73a773bc0545.gif)
+![](https://github.com/zengY1/Webmaster-React-Dva-Umi-Antd/blob/master/assets/image/login.png)
 
 移动
 
