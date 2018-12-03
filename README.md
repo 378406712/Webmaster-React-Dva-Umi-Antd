@@ -9,7 +9,7 @@
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 
-演示地址 <http://antd-admin.zuiidea.com>
+框架演示地址 <http://antd-admin.zuiidea.com>
 ## 项目演示：
 ![](https://github.com/zengY1/Webmaster-React-Dva-Umi-Antd/blob/master/assets/image/%E6%B5%81%E7%A8%8B.gif)
 
